@@ -1,0 +1,3 @@
+
+
+HTTP_METHODS = ("GET", "HEAD", "OPTIONS", "POST", "PUT", "DELETE", "PATCH")
